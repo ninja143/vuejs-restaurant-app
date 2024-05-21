@@ -1,5 +1,5 @@
 <template>
-    <h2>Sign-in Page</h2>
+    <h2>Sign-up</h2>
     <div class="register">
         <input type="text" name="name" v-model="name" placeholder="Enter name" />
         <input type="text" name="email" v-model="email" placeholder="Enter email" />
