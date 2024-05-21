@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "5e85",
+      "name": "Shyam Sundar",
+      "email": "shyam@gmail.com",
+      "password": 12345678
+    },
+    {
+      "id": "cc6e",
+      "name": "Rohit Saxena",
+      "email": "rohit@gmail.com",
+      "password": 12345678
+    },
+    {
+      "id": "9482",
+      "email": "monikajain@gmail.com",
+      "name": "Monika Jain",
+      "password": "Moni@12345"
+    },
+    {
+      "id": "0116",
+      "email": "chotapradhan@gmail.com",
+      "name": "Chota Pradhna",
+      "password": "Chota@12345"
+    },
+    {
+      "id": "779d",
+      "email": "rofhankamat@gmail.com",
+      "name": "Roshan Kamat",
+      "password": "Roshan@12345"
+    }
+  ]
+}
