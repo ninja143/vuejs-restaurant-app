@@ -1,7 +1,7 @@
 
 # restro
 
-![Sign-up Screen](screenshot.PNG)
+![Sign-up Screen](./screens/screenshot.PNG)
 
 
 ## Project setup
